@@ -19,7 +19,7 @@ def fares(age, student=False, senior=False):
 
 
 
-
+print fares(70,senior=True)
 print fares(70)
 print fares(50)
 print fares(25,student=True)
